@@ -40,7 +40,7 @@ Check out the interactive Power BI dashboard showcasing all these metrics and in
 ## Screenshots:
 Below are some screenshots from the Power BI report for a quick preview:
 
-![OYO Power BI Report Screenshot](https://github.com/user-attachments/assets/8c7dddf3-3124-416a-b4db-d42b5de3f9e7)  
+![OYO Power BI Report Screenshot](https://github.com/user-attachments/assets/68b5c3c2-7cce-4655-86b2-2815b77d8e53)  
 
 
 ## Special Thanks To:
